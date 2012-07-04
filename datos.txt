@@ -1,0 +1,7 @@
+Registros=2;
+
+Fecha1="11 de mayo de 2010";
+Texto1="Contrato para el servicio de recepción y conserjería.";
+
+Fecha2="11 de mayo de 2010";
+Texto2="Contrato para el servicio de limpieza y mantenimiento.";
